@@ -1,6 +1,2 @@
-# Untitled
-
-A Pen created on CodePen.
-
-Original URL: [https://codepen.io/Shreyash-Srivastva/pen/wBvPRWe](https://codepen.io/Shreyash-Srivastva/pen/wBvPRWe).
+find the index.html file in dist to run the code.
 
