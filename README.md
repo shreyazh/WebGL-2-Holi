@@ -1,1 +1,1 @@
-**unzip>open dist>run index.html**
+## **unzip -> open dist -> run index.html**
