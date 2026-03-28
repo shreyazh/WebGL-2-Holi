@@ -894,7 +894,7 @@ class Bg extends HTMLElement {
 
       const text = new Text({
         font,
-        text: "Happy Holi",
+        text: "",
         align: "center",
         letterSpacing: -0.06,
         size: 0.3,
